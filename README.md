@@ -1,4 +1,4 @@
-# IT_Professional_Project
+# IT Professional Project
 As the project coordinator (Team Leader) for my final year project, I orchestrated our team's efforts toward the successful completion of an IT project. This experience not only honed my leadership skills but also provided valuable insights into effective project management practices.
 
 ### Executive Summary 
